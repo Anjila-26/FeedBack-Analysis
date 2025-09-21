@@ -15,10 +15,10 @@ Built with **FastAPI** (backend, AI agent, analytics) and **Next.js** (frontend,
 
 
 - **Screenshots:**  
-  ![Admin Dashboard](../Screenshots/Admin%20DashBoard.png)  
-  ![Feedback Form](../Screenshots/FeedBack%20Form.png)  
-  ![Individual Analysis](../Screenshots/Individual%20Analysis.png)  
-  ![Priority and Security](../Screenshots/Prirority%20and%20Security.png)
+  ![Admin Dashboard](Screenshots/Admin%20DashBoard.png)  
+  ![Feedback Form](Screenshots/FeedBack%20Form.png)  
+  ![Individual Analysis](Screenshots/Individual%20Analysis.png)  
+  ![Priority and Security](Screenshots/Prirority%20and%20Security.png)
 
 ---
 
