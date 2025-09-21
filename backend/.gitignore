@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# FastAPI / Uvicorn
+*.pid
+*.log
+
+# Pydantic AI / API Keys
+.env.local
+.env.production
+secrets.json
+api_keys.txt
+
+# Database files
+*.db
+*.sqlite
+
+# Redis
+dump.rdb
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

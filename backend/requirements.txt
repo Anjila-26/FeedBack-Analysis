@@ -1,0 +1,6 @@
+fastapi
+pydantic-ai[gemini]
+textblob
+python-dotenv
+slowapi
+redis
