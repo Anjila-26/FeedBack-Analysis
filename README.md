@@ -13,6 +13,7 @@ Built with **FastAPI** (backend, AI agent, analytics) and **Next.js** (frontend,
 - **Modular Backend:** Clean API routing, rate limiting, and database integration.
 - **Modern Frontend:** Built with Next.js, easily customizable and extendable.
 
+
 - **Screenshots:**  
   ![Admin Dashboard](../Screenshots/Admin%20DashBoard.png)  
   ![Feedback Form](../Screenshots/FeedBack%20Form.png)  
@@ -110,11 +111,6 @@ See `/docs` for full interactive API.
 MIT License
 
 ---
-
-## Authors
-
-- [Your Name or Team]
-- [Contact or Organization]
 
 ---
 
