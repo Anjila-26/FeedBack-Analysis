@@ -14,11 +14,19 @@ Built with **FastAPI** (backend, AI agent, analytics) and **Next.js** (frontend,
 - **Modern Frontend:** Built with Next.js, easily customizable and extendable.
 
 
-- **Screenshots:**  
-  ![Admin Dashboard](Screenshots/Admin%20DashBoard.png)  
-  ![Feedback Form](Screenshots/FeedBack%20Form.png)  
-  ![Individual Analysis](Screenshots/Individual%20Analysis.png)  
-  ![Priority and Security](Screenshots/Prirority%20and%20Security.png)
+## Screenshots
+
+**Feedback Form:**  
+![Feedback Form](Screenshots/FeedBack%20Form.png)
+
+**Admin Dashboard:**  
+![Admin Dashboard](Screenshots/Admin%20DashBoard.png)
+
+**Individual Analysis:**  
+![Individual Analysis](Screenshots/Individual%20Analysis.png)
+
+**Priority and Security:**  
+![Priority and Security](Screenshots/Prirority%20and%20Security.png)
 
 ---
 
